@@ -1,4 +1,4 @@
-#### Frequency Divider With verilog : 
+#### Frequency divider with verilog : 
 frequency divider circuit that outputs three different clocks with(50 Khz, 100 Khz and 250 Khz).
 * Clock 1 : 250 Khz
 * Clock 2 : 100 Khz
