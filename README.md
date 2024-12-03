@@ -1,5 +1,5 @@
 #### Frequency Divider With verilog : 
-The verilog code is for designing a frequency divider that outputs three different clocks with(50 Khz, 100 Khz and 250 Khz).
+frequency divider circuit that outputs three different clocks with(50 Khz, 100 Khz and 250 Khz).
 * Clock 1 : 250 Khz
 * Clock 2 : 100 Khz
 * Clock 3 : 50 Khz
